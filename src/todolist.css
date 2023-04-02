@@ -1,9 +1,22 @@
 .deleteBtn{
     margin-left: 10px;
+    margin-right: 5px;
 }
 .task{
     margin: 10px;
 }
 .subBut{
     margin-left: 10px;
+}
+.completed-tasks{
+    margin-top: 40px;
+}
+
+.deleteAllTaskTbtn{
+    margin-top: 5px;
+}
+
+.deleteCheckBtn{
+    display: flex;
+    
 }
