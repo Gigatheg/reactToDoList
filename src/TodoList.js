@@ -14,6 +14,7 @@ import {BiEdit} from 'react-icons/bi'
     const [isChecked, setIsChecked] = useState(false);
     const [checked, setChecked] = useState(false)
  
+    
     const addTask = (e) => {
         e.preventDefault()
         if(!inputVal){
